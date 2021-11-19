@@ -18,4 +18,5 @@ Sou o David, criador de conteúdo sobre programação e tecnologia
   <a href="https://tiktok.com/queriaprogramar" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
  
  
+   ![Snake animation](https://github.com/DaviProgramming/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
