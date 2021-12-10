@@ -1,4 +1,4 @@
-Sou o David, criador de conteúdo sobre programação e tecnologia
+Sou o David, estudante de programação e criador de conteúdo sobre programação e tecnologia
 <div align="center">
   <a href="https://github.com/DaviProgramming">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviProgramming&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
