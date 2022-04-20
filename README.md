@@ -5,9 +5,12 @@ Sou o David, estudante de programação e criador de conteúdo sobre programaç�
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviProgramming&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="qp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="qp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="qp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="qp-PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="qp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="qp-JQUERY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="qp-PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
   
   ##
