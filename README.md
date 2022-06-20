@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [bit.ly/3HqPnAB](bit.ly/3HqPnAB)
 
-<img width="20px" align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119c37de8c2339e633b7b966026273c5a6fb466ff1&rid=giphy.gif&ct=g">
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119c37de8c2339e633b7b966026273c5a6fb466ff1&rid=giphy.gif&ct=g">
 
 
 <div >
