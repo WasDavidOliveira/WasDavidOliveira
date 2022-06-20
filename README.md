@@ -3,11 +3,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119c37de8c2339e633b7b966026273c5a6fb466ff1&rid=giphy.gif&ct=g">
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [bit.ly/3HqPnAB](bit.ly/3HqPnAB)
 
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119c37de8c2339e633b7b966026273c5a6fb466ff1&rid=giphy.gif&ct=g">
+
 
 
 <div >
