@@ -1,5 +1,4 @@
- <img height="300vh" align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119c37de8c2339e633b7b966026273c5a6fb466ff1&rid=giphy.gif&ct=g">
-
+ [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
@@ -16,7 +15,7 @@
 <div >
   <a href="https://github.com/DaviProgramming">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaviProgramming&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviProgramming&layout=compact&langs_count=7&theme=react"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviProgramming&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
