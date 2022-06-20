@@ -1,4 +1,4 @@
- <img height="300vh" align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119c37de8c2339e633b7b966026273c5a6fb466ff1&rid=giphy.gif&ct=g">
+ <img height="300vh" align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119c37de8c2339e633b7b966026273c5a6fb466ff1&rid=giphy.gif&ct=g">
 
 
 <h1 align="center">Hi 👋, I'm David</h1>
