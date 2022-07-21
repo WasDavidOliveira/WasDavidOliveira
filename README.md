@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [bit.ly/3HqPnAB](bit.ly/3HqPnAB)
-
 
 
 
