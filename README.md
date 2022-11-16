@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Front-end developer from Brazil</h3>
 
 
-
 - 🌱 I’m currently learning **React Js**
 
 
@@ -49,4 +48,8 @@
             alt="bootstrap" width="40" height="40" /> </a> 
             </p>
   
+ <div align="center"> 
  
+![DaviProgramming GitHub stats ](https://github-readme-stats.vercel.app/api?username=DaviProgramming&show_icons=true&theme=radical)
+
+</div>
