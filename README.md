@@ -48,8 +48,12 @@
             alt="bootstrap" width="40" height="40" /> </a> 
             </p>
   
- <div align="center"> 
- 
+ <div align="left"> 
+
 ![DaviProgramming GitHub stats ](https://github-readme-stats.vercel.app/api?username=DaviProgramming&show_icons=true&theme=radical)
+ <div style="width:50px"> 
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviProgramming&layout=compact&theme=radical)](https://github.com/DaviProgramming/github-readme-stats)
+  </div>
 
 </div>
