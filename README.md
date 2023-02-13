@@ -1,7 +1,8 @@
  [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">This is my repository on GitHub, I'm a front-end developer with a passion for bringing web interfaces to life. Here you will see recent projects developed with my skills in Vue.js, React,TypeScript and More!</h3>
+
+***This is my repository on GitHub, I'm a front-end developer with a passion for bringing web interfaces to life. Here you will see recent projects developed with my skills in Vue.js, React,TypeScript and More!***
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning **NODE**
@@ -13,7 +14,7 @@
 - [SecretWorld](https://github.com/DaviProgramming/secretword-reactproject) - Project using react to make a very intuitive word search game.
 - [YooloWebsite](https://github.com/DaviProgramming/Yoolo-Site-for-movies-and-series) - Project using html, css and javascript to create a replica of a streaming site based on ui concepts .
 
-<h3 align="left">Connect with me:</h3>
+### ***Connect with me:***
 <p align="left">
 <a href="https://www.linkedin.com/in/davidoliveiradev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/linkedin.png" alt="david oliveira" height="40" width="40" /></a>
 <a href="https://instagram.com/asdavidoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/instagram.png" alt="asdavidoliveira" height="40" width="40" /></a>
@@ -21,7 +22,8 @@
  <a href="https://david-portfolio-plum.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/www.png" alt="david oliveira" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+#### ***Languages and Tools:***
+
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
