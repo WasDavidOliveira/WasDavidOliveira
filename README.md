@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/davidoliveiradev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/linkedin.png" alt="david oliveira" height="40" width="40" /></a>
-<a href="https://instagram.com/asdavidoliveira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/instagram.png" alt="asdavidoliveira" height="40" width="40" /></a>
- <a href="mailto:daviddenisson2014@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/mail.png" alt="asdavidoliveira" height="40" width="40" /></a>
- <a href="https://david-portfolio-plum.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/www.png" alt="david oliveira" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/davidoliveiradev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/linkedin.png" alt="david oliveira" height="40" width="40" /></a>
+<a href="https://instagram.com/asdavidoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/instagram.png" alt="asdavidoliveira" height="40" width="40" /></a>
+ <a href="mailto:daviddenisson2014@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/mail.png" alt="asdavidoliveira" height="40" width="40" /></a>
+ <a href="https://david-portfolio-plum.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/www.png" alt="david oliveira" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
