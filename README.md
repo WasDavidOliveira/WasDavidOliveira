@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Front-end developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Vue.js**
 
 
 
@@ -21,7 +21,7 @@
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            alt="html5" width="40" height="40" /> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> 
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -31,11 +31,14 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://laravel.com/" target="_blank"
         rel="noreferrer">
          <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="php"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript"
             width="40" height="40" /> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="php"
-            width="40" height="40" /> </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="react"
+            width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg"
+            alt="vue js" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
+        rel="noreferrer">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>
