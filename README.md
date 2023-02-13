@@ -8,7 +8,7 @@
 - 👨‍💻 &nbsp;Read more about my projects at [david-portfolio-plum.vercel.app](https://david-portfolio-plum.vercel.app/#projects)
 
 ***All of my projects are released as open-source on GitHub, here is some of them:***
-- [Rickrundown](https://github.com/DaviProgramming/rickrundown) - Project using vue.js to consume an api about rick and morty, in this project it is possible to search for a specific character and in it demonstrate various information about it .
+- [RickRunDown](https://github.com/DaviProgramming/rickrundown) - Project using Vue.js and Scss to consume an api about rick and morty, in this project it is possible to search for a specific character and in it demonstrate various information about it .
 - [GameOfThronesInfos](https://github.com/DaviProgramming/GameOfThrones-React-Website) - Simple project using React to demonstrate information about Game of thrones, where it is possible to see information about a season or specific characters and even wallpapers .
 - [SecretWorld](https://github.com/DaviProgramming/secretword-reactproject) - Project using react to make a very intuitive word search game.
 - [YooloWebsite](https://github.com/DaviProgramming/Yoolo-Site-for-movies-and-series) - Project using html, css and javascript to create a replica of a streaming site based on ui concepts .
