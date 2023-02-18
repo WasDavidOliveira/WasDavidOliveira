@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
 
-***This is my repository on GitHub, I'm a front-end developer with a passion for bringing web interfaces to life. Here you will see recent projects developed with my skills in Vue.js, React,TypeScript and More!***
+***I'm a front-end developer with a passion for bringing web interfaces to life. Here you will see recent projects developed with my skills in Vue.js, React,TypeScript and More!***
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning **NODE**
