@@ -7,7 +7,7 @@
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning **NODE**
 - 👨‍💻 &nbsp;Read more about my projects at [david-portfolio-plum.vercel.app](https://david-portfolio-plum.vercel.app/#projects)
-- 💻 I use daily **Vue.js**, **React**, **Javascript**,  **Sass**
+- 💻 &nbsp;I use daily **Vue.js**, **React**, **Javascript**,  **Sass**
 
 ***All of my projects are released as open-source on GitHub, here is some of them:***
 - [RickRunDown](https://github.com/DaviProgramming/rickrundown) - Project using Vue.js and Scss to consume an api about rick and morty, in this project it is possible to search for a specific character and in it demonstrate various information about it .
