@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning **NODE**
-- 👨‍💻 &nbsp;Read more about my projects at [david-portfolio-plum.vercel.app](https://david-portfolio-plum.vercel.app/#projects)
+- 👨‍💻 &nbsp;Read more about my projects at [daviddenisson.com.br](https://daviddenisson.com.br/#projects)
 - 💻 &nbsp;I use daily **Vue.js**, **React**, **Javascript**,  **Sass**
 
 ***All of my projects are released as open-source on GitHub, here is some of them:***
