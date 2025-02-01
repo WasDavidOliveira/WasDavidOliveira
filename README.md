@@ -5,7 +5,7 @@
 ***I'm a front-end developer with a passion for bringing web interfaces to life. Here you will see recent projects developed with my skills in Vue.js, React,TypeScript and More!***
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning **SOLID**
+- 🌱 &nbsp;I’m currently learning **DEVOPS**
 - 👨‍💻 &nbsp;Read more about my projects at [daviddenisson.com.br](https://daviddenisson.com.br/#projects)
 - 💻 &nbsp;I use daily **PHP**, **LARAVEL**, **Javascript**,  **MYSQL**
 
