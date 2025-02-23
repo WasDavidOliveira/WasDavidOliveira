@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 
-<h1 align="center">Olá 👋, eu sou David</h1>
+<h1 align="center">HI 👋, I am David</h1>
 
 <p align="center">
   <em>Sou um desenvolvedor back-end apaixonado por criar soluções robustas e eficientes. Minha experiência inclui <strong>Laravel</strong>, <strong>PHP</strong>, <strong>Docker</strong>, <strong>RabbitMQ</strong> e outras tecnologias,  Aqui você verá projetos recentes que desenvolvi utilizando essas tecnologias!</em>
@@ -10,7 +10,7 @@
 - 🔭 Atualmente, estou trabalhando em um projeto interessante :wink:
 - 🌱 Estou aprendendo <strong>DEVOPS</strong>
 - 👨‍💻 Confira mais sobre meus projetos em [daviddenisson.com.br](https://daviddenisson.com.br/#projects)
-- 💻 Uso diariamente <strong>PHP</strong>, <strong>LARAVEL</strong>, <strong>JavaScript</strong> e <strong>MYSQL</strong>
+- 💻 Uso diariamente <strong>PHP</strong>, <strong>LARAVEL</strong>, <strong>LIVEWIRE</strong>, <strong>TYPESCRIPT</strong> e <strong>POSTGRESQL</strong>
 
 ### 🛠️ Projetos Open Source
 ***Todos os meus projetos são lançados como open-source no GitHub, aqui estão alguns deles:***
@@ -29,33 +29,47 @@
 </p>
 
 ### 🛠️ Linguagens e Ferramentas:
+
+#### 🌐 Linguagens
 <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> 
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
-    </a>
+</p>
+
+#### ⚙️ Frameworks
+<p align="left"> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
     </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" /> 
+    <a href="https://livewire.laravel.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/livewire/livewire-original.svg" alt="Livewire" width="40" height="40" />
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
+    </a>
+</p>
+
+#### 🗄️ Bancos de Dados
+<p align="left"> 
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> 
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> 
+</p>
+
+#### ☁️ Ferramentas
+<p align="left"> 
+    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40" />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" /> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" width="40" height="40" />
     </a>
 </p>
 
