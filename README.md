@@ -9,7 +9,6 @@
 ### 💼 O que estou fazendo atualmente
 - 🔭 Atualmente, estou trabalhando em um projeto interessante :wink:
 - 🌱 Estou aprendendo <strong>DEVOPS</strong>
-- 👨‍💻 Confira mais sobre meus projetos em [daviddenisson.com.br](https://daviddenisson.com.br/#projects)
 - 💻 Uso diariamente <strong>PHP</strong>, <strong>LARAVEL</strong>, <strong>LIVEWIRE</strong>, <strong>TYPESCRIPT</strong> e <strong>POSTGRESQL</strong>
 
 ### 🛠️ Projetos Open Source
