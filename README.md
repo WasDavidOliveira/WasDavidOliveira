@@ -9,7 +9,7 @@
 ### 💼 O que estou fazendo atualmente
 - 🔭 Trabalhando em projetos inovadores de desenvolvimento back-end
 - 🌱 Aprofundando meus conhecimentos em <strong>DevOps</strong> e arquitetura de software
-- 💻 Utilizando diariamente <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Livewire</strong>, <strong>TypeScript</strong> e <strong>PostgreSQL</strong>
+- 💻 Utilizando diariamente <strong>PHP</strong>, <strong>Laravel</strong>, <strong>TypeScript</strong> e <strong>Oracle</strong>
 
 ### 🛠️ Projetos Open Source
 ***Todos os meus projetos são disponibilizados como open-source no GitHub:***
