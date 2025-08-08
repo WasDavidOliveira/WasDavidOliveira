@@ -15,10 +15,7 @@
 ***Todos os meus projetos são disponibilizados como open-source no GitHub:***
 
 - [MathBank](https://github.com/DaviProgramming/mathbank) - API desenvolvida com Laravel e PostgreSQL para gerenciamento de usuários e carteiras digitais, permitindo transações entre contas.
-- [RickRunDown](https://github.com/DaviProgramming/rickrundown) - Aplicação Vue.js com SCSS que consome a API de Rick e Morty, oferecendo busca detalhada de personagens e informações completas.
 - [Shiftly](https://github.com/DaviProgramming/Shiftly) - Sistema de controle de ponto completo (check-in/check-out), desenvolvido com TypeScript e Express.js, focado em gestão de presença de funcionários, geração de relatórios e funcionalidades administrativas.
-- [SecretWorld](https://github.com/DaviProgramming/secretword-reactproject) - Jogo de palavras cruzadas intuitivo e divertido desenvolvido com React.
-- [YooloWebsite](https://github.com/DaviProgramming/Yoolo-Site-for-movies-and-series) - Réplica de plataforma de streaming criada com HTML, CSS e JavaScript, seguindo princípios modernos de UI.
 
 ### 🤝 Conecte-se comigo:
 <p align="left">
