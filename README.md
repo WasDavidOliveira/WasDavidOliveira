@@ -25,10 +25,10 @@ Todos os meus projetos são open-source e estão disponíveis no GitHub:
   <a href="https://instagram.com/asdavidoliveira" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/instagram.png" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="mailto:daviddenisson2014@gmail.com">
+  <a href="mailto:david-oliveira.code@proton.me">
     <img src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/mail.png" alt="Email" height="40" width="40" />
   </a>
-  <a href="https://david-portfolio-plum.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://daviddenisson.com.br" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/dmhendricks/signature-social-icons/master/icons/round-flat-filled/50px/website.png" alt="Portfólio" height="40" width="40" />
   </a>
 </p>
