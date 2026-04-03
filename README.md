@@ -1,132 +1,74 @@
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗  █████╗ ██╗   ██╗██╗██████╗                                      ║
-║   ██╔══██╗██╔══██╗██║   ██║██║██╔══██╗                                     ║
-║   ██║  ██║███████║██║   ██║██║██║  ██║                                     ║
-║   ██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║                                     ║
-║   ██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝                                     ║
-║   ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝                                      ║
-║                                                                              ║
-║   > Back-end Developer                                                      ║
-║   > Architecture & DevOps Enthusiast                                        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+██████╗  █████╗ ██╗   ██╗██╗██████╗
+██╔══██╗██╔══██╗██║   ██║██║██╔══██╗
+██║  ██║███████║██║   ██║██║██║  ██║
+██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║
+██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝
 ```
 
-## `$ whoami`
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=FCE300&center=true&vCenter=true&width=500&lines=%3E+BACK-END+DEVELOPER+%2F%2F+ARCHITECTURE+%26+DEVOPS;%3E+BUILDING+ROBUST+%26+EFFICIENT+SOLUTIONS;%3E+STATUS%3A+ONLINE+%E2%96%88+READY+TO+BUILD)
+
+</div>
+
+---
 
 ```typescript
-const developer = {
-  name: "David Oliveira",
-  role: "Back-end Developer",
-  location: "São José da Laje, AL - Brasil",
-  focus: ["Scalable Systems", "Clean Architecture", "DevOps"],
-  
-  currentlyWorking: {
-    with: ["PHP", "Laravel", "TypeScript", "Oracle"],
-    on: "Innovative back-end solutions",
-    learning: "Advanced DevOps & Software Architecture"
-  },
-  
-  mindset: "Building robust and efficient solutions"
+// NIGHT CITY CORP — EMPLOYEE FILE
+const david = {
+  handle   : "davidoliveira.dev",
+  role     : "Back-end Developer",
+  location : "São José da Laje, AL — Brasil",
+  focus    : ["Scalable Systems", "Clean Architecture", "DevOps"],
+  stack    : ["PHP", "Laravel", "TypeScript", "Elixir", "Oracle"],
+  status   : ">> AVAILABLE FOR COLLABORATION",
 };
 ```
 
 ---
 
-## `$ cat tech-stack.json`
+<div align="center">
 
-```json
-{
-  "languages": {
-    "primary": ["PHP", "TypeScript", "JavaScript"],
-    "experience_level": "Advanced"
-  },
-  "frameworks": {
-    "backend": ["Laravel", "Express.js"],
-    "frontend": ["Nuxt.js"]
-  },
-  "databases": {
-    "relational": ["PostgreSQL", "MySQL", "Oracle"],
-    "focus": "Data integrity & performance"
-  },
-  "devops": {
-    "containerization": ["Docker"],
-    "message_broker": ["RabbitMQ"],
-    "version_control": ["Git"]
-  }
-}
-```
+**`// TECH.STACK`**
+
+![PHP](https://img.shields.io/badge/PHP-FCE300?style=flat-square&logo=php&logoColor=0D0D0D)
+![TypeScript](https://img.shields.io/badge/TypeScript-FCE300?style=flat-square&logo=typescript&logoColor=0D0D0D)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCE300?style=flat-square&logo=javascript&logoColor=0D0D0D)
+![Elixir](https://img.shields.io/badge/Elixir-FCE300?style=flat-square&logo=elixir&logoColor=0D0D0D)
+
+![Laravel](https://img.shields.io/badge/Laravel-00B8FF?style=flat-square&logo=laravel&logoColor=0D0D0D)
+![Express](https://img.shields.io/badge/Express.js-00B8FF?style=flat-square&logo=express&logoColor=0D0D0D)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-00B8FF?style=flat-square&logo=nuxt.js&logoColor=0D0D0D)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF003C?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF003C?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FF003C?style=flat-square&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF003C?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF003C?style=flat-square&logo=rabbitmq&logoColor=white)
+
+</div>
 
 ---
 
-## `$ ls -la projects/`
+<div align="center">
 
-```bash
-drwxr-xr-x  2 david  staff   64B  MathBank/
-drwxr-xr-x  2 david  staff   64B  Shiftly/
-```
+**`// ACCESS.LINKS`**
 
-### **📂 MathBank**
-```yaml
-description: Digital wallet management API
-tech_stack: [Laravel, PostgreSQL]
-features:
-  - User & wallet management
-  - Secure transactions between accounts
-  - RESTful API architecture
-repository: https://github.com/DaviProgramming/mathbank
-```
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-0D0D0D?style=flat-square&logoColor=FCE300)](https://daviddenisson.com.br)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0D0D0D?style=flat-square&logoColor=FCE300)](https://www.linkedin.com/in/davidoliveiradev/)
+[![Projects](https://img.shields.io/badge/◈_PROJECTS-0D0D0D?style=flat-square&logoColor=FCE300)](https://github.com/DaviProgramming?tab=repositories)
+[![Email](https://img.shields.io/badge/◈_EMAIL-0D0D0D?style=flat-square&logoColor=FCE300)](mailto:david-oliveira.code@proton.me)
 
-### **📂 Shiftly**
-```yaml
-description: Complete attendance control system
-tech_stack: [TypeScript, Express.js]
-features:
-  - Check-in/Check-out management
-  - Attendance reports
-  - Administrative dashboard
-repository: https://github.com/DaviProgramming/Shiftly
-```
-
----
-
-## `$ curl -X GET /social-links`
-
-```javascript
-{
-  "linkedin": "https://www.linkedin.com/in/davidoliveiradev/",
-  "instagram": "https://instagram.com/asdavidoliveira",
-  "email": "david-oliveira.code@proton.me",
-  "portfolio": "https://daviddenisson.com.br"
-}
-```
-
----
-
-## `$ ./status.sh`
+<br/>
 
 ```
-[✓] All projects are open-source
-[✓] Available for collaboration
-[✓] Passionate about clean code
-[↻] Constantly learning and evolving
-
-Status: READY TO BUILD
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  WAKE UP, CHOOM. WE HAVE CODE TO SHIP.
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
----
+<sub>Made with ☕ and code · Night City, 2077</sub>
 
-```
-┌─[david@localhost]─[~]
-└──╼ $ echo "Thanks for visiting my profile!"
-Thanks for visiting my profile!
-
-┌─[david@localhost]─[~]
-└──╼ $ _
-```
-
-<p align="center">
-  <sub>Made with ☕ and code</sub>
-</p>
+</div>
