@@ -11,6 +11,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=FCE300&center=true&vCenter=true&width=500&lines=%3E+BACK-END+DEVELOPER+%2F%2F+ARCHITECTURE+%26+DEVOPS;%3E+BUILDING+ROBUST+%26+EFFICIENT+SOLUTIONS;%3E+STATUS%3A+ONLINE+%E2%96%88+READY+TO+BUILD)
 
+<br/>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJnc2NyeDhmdnFoZDltd3l6MGsyNnhxemFvZ2wyb3E5dmZlMmx6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" width="100%" alt="cyberpunk gif"/>
+
 </div>
 
 ---
