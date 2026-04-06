@@ -60,7 +60,7 @@ const david = {
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  WAKE UP, CHOOM. WE HAVE CODE TO SHIP.
+  Wake the f**k up, Samurai! WE HAVE A CODE TO SHIP.
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
