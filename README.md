@@ -28,20 +28,33 @@ const david = {
 
 **`// TECH.STACK`**
 
-![PHP](https://img.shields.io/badge/PHP-FCE300?style=flat-square&logo=php&logoColor=0D0D0D)
-![TypeScript](https://img.shields.io/badge/TypeScript-FCE300?style=flat-square&logo=typescript&logoColor=0D0D0D)
-![JavaScript](https://img.shields.io/badge/JavaScript-FCE300?style=flat-square&logo=javascript&logoColor=0D0D0D)
-![Elixir](https://img.shields.io/badge/Elixir-FCE300?style=flat-square&logo=elixir&logoColor=0D0D0D)
+### `> BACKEND`
 
-![Laravel](https://img.shields.io/badge/Laravel-00B8FF?style=flat-square&logo=laravel&logoColor=0D0D0D)
-![Express](https://img.shields.io/badge/Express.js-00B8FF?style=flat-square&logo=express&logoColor=0D0D0D)
-![Nuxt](https://img.shields.io/badge/Nuxt.js-00B8FF?style=flat-square&logo=nuxt.js&logoColor=0D0D0D)
+![Java](https://img.shields.io/badge/Java-FCE300?style=flat-square\&logo=openjdk\&logoColor=0D0D0D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-FCE300?style=flat-square\&logo=springboot\&logoColor=0D0D0D)
+![Node.js](https://img.shields.io/badge/Node.js-FCE300?style=flat-square\&logo=node.js\&logoColor=0D0D0D)
+![TypeScript](https://img.shields.io/badge/TypeScript-FCE300?style=flat-square\&logo=typescript\&logoColor=0D0D0D)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCE300?style=flat-square\&logo=javascript\&logoColor=0D0D0D)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF003C?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF003C?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-FF003C?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF003C?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF003C?style=flat-square&logo=rabbitmq&logoColor=white)
+### `> DATABASE`
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00B8FF?style=flat-square\&logo=postgresql\&logoColor=0D0D0D)
+![MySQL](https://img.shields.io/badge/MySQL-00B8FF?style=flat-square\&logo=mysql\&logoColor=0D0D0D)
+![Redis](https://img.shields.io/badge/Redis-00B8FF?style=flat-square\&logo=redis\&logoColor=0D0D0D)
+
+### `> ARCHITECTURE & INFRA`
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF003C?style=flat-square\&logo=rabbitmq\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF003C?style=flat-square\&logo=docker\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF003C?style=flat-square\&logo=fastapi\&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF003C?style=flat-square\&logo=buffer\&logoColor=white)
+
+### `> FRONTEND`
+
+![React](https://img.shields.io/badge/React-8A5CFF?style=flat-square\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-8A5CFF?style=flat-square\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8A5CFF?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
 
 </div>
 
