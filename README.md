@@ -17,7 +17,7 @@ const david = {
   role     : "Back-end Developer",
   location : "São José da Laje, AL — Brasil",
   focus    : ["Scalable Systems", "Clean Architecture", "DevOps"],
-  stack    : ["PHP", "Laravel", "TypeScript", "Elixir", "Oracle"],
+  stack    : ["Java", "Spring Boot", "TypeScript", "Node.js", "Oracle"],
   status   : ">> AVAILABLE FOR COLLABORATION",
 };
 ```
